@@ -1,7 +1,8 @@
-#visualization-contianer{
+#visualization-container{
 	border: 2px solid black;
 	background: fuchsia;
 	height: 500px;
+	display: block;
 }
 
 .flexitem{
