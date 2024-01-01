@@ -1,0 +1,13 @@
+#visualization-contianer{
+	border: 2px solid black;
+	background: fuchsia;
+	height: 500px;
+}
+
+.flexitem{
+	border: 10px solid black;
+	background: cyan;
+	height: 100px;
+	width: 100px;
+	margin: 5px;
+}
